@@ -1,5 +1,12 @@
-<script setup>
+<script>
+export default {
+    name: "AppTitle",
+    data() {
+        return {
 
+        }
+    }
+}
 </script>
 
 <template>
